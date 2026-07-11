@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Harish Krishnan. I'm a Rutgers University graduate with a BS in Computer Science seeking full-time work
-- 🛠️ I'm proficient in Java, Python, JavaScript and C. Also, I'm comfortable with various libraries including Pandas
-- 📌 Here are links to a few of my projects: [Housing Estimate](https://github.com/HarishKrishnaan/HousingEstimate.git) - [FP&A Dashboard and Forecasting](https://github.com/HarishKrishnaan/fpa-dashboard) - [Row Counter](https://github.com/HarishKrishnaan/Row-Counter)
-- 📫 How to reach me: message me on gitHub, or send me an email at: harkrishnan2e@gmail.com
-- 🌱 I’m currently learning React, React Native, JavaScript, and TypeScript
-- 📄 [My Resume](https://drive.google.com/file/d/1J1sIRoaFQ1yqCOHcUjMDCIXATlqvPQkp/view) - [My Handshake Profile](https://rutgers.joinhandshake.com/profiles/tr3gvj)
+- 🛠️ I'm proficient in Java, Python, JavaScript and C. Also, I'm comfortable with various libraries including Pandas, Plotly, and openpyxl
+- 📌 Here are links to a few of my projects: [FP&A Dashboard and Forecasting](https://github.com/HarishKrishnaan/fpa-dashboard) - [Row Counter](https://github.com/HarishKrishnaan/Row-Counter) - [Portfolio](https://harish-portfolio-umber.vercel.app/)
+- 📫 How to reach me: send me an email at: harkrishnan2e@gmail.com or message me on github
+- 🌱 I’m currently learning Next.js, TypeScript, Tailwind, and SQLite
+- 📄 [My Portfolio](https://harish-portfolio-umber.vercel.app/) - [My Resume](https://drive.google.com/file/d/1J1sIRoaFQ1yqCOHcUjMDCIXATlqvPQkp/view) - [My Handshake Profile](https://rutgers.joinhandshake.com/profiles/tr3gvj)
 
 <!---
 MadStryfe/MadStryfe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
